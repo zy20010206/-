@@ -207,4 +207,14 @@ body {
 	font-size: 30px;
 	font-weight: 500;
 	color: #007bff;
+} 
+.majob{
+	width: 100%;
+	 background-image:url("images/bg3.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin-top: 20px;
+    padding: 200px 0;
+	
 }
